@@ -5,7 +5,7 @@ First! make sure that you are in app repository.
 
 1 - Install package:
 
-# $ npm install @medjs/mrc-gen
+$ npm install @medjs/mrc-gen
 
 2 - To generate Model file:
 
