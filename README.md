@@ -1,7 +1,7 @@
 # MRC-gen
 Models Routes Controllers generator.
 MRC-gen is a npm package for express app that can generate model, route or controller file with content, separately or all of them by cli command line.
-to install this package make sure that you are initialized your project (npm init) and you are in repository app.
+- To install this package make sure that you are initialized your project (npm init) and you are in repository app.
 
 1 - Install package:
 
