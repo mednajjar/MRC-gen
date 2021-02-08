@@ -3,9 +3,22 @@
   "version": "1.0.0",
   "description": "Model, Controller and Route generator",
   "main": "bin/generate.js",
+  "bin": {
+    "create-controller": "bin/createController.js",
+    "create-model": "bin/createModel.js",
+    "create-route": "bin/createRoute.js",
+    "create-mrc": "bin/generate.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "bin/",
+    "generator/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mednajjar/MRC-gen.git"
