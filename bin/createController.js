@@ -4,7 +4,7 @@
 let chalk = require('chalk');
 let fs = require('fs');
 
-let readStreamController = fs.createReadStream('node_modules/@testcli/cli/generator/controller.js');
+let readStreamController = fs.createReadStream('node_modules/@medjs/mrc-gen/generator/controller.js');
 
 const readline = require('readline').createInterface({
   input: process.stdin,
