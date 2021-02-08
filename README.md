@@ -37,7 +37,7 @@ $ npx create-mrc
 
 $ npm i -g @medjs/mrc-gen
 
-# You will able to use direct command:
+# You will be able to use direct command:
 
 $ create-model
 
