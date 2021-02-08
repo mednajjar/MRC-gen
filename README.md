@@ -9,7 +9,7 @@ $ npm install @medjs/mrc-gen
 
 2 - To generate Model file:
 
-# $ npx create-model
+$ npx create-model
 
 => then type the name of your file.
 
@@ -17,32 +17,32 @@ $ npm install @medjs/mrc-gen
 
 3 - To generate controller file:
 
-# $ npx create-controller
+$ npx create-controller
 
 => then type the name of your file.
 
 4 - To generate Route file:
 
-# $ npx create-route
+$ npx create-route
 
 => then type the name of your file.
 
 5 - To generate all files:
 
-# $ npx create-mrc
+$ npx create-mrc
 
 => then type the name of your file.
 
 # You can also install the package globaly:
 
-# $ npm i -g @medjs/mrc-gen
+$ npm i -g @medjs/mrc-gen
 
 # You will able to use direct command:
 
-# $ create-model
+$ create-model
 
-# $ create-controller
+$ create-controller
 
-# $ create-route
+$ create-route
 
-# $ create-mrc
+$ create-mrc
